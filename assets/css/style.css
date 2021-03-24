@@ -1,0 +1,112 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+body{
+  font-family:'Nunito', sans-serif;
+
+}
+
+.header {
+  margin-left: 0%;
+  font-size: 20px;
+  margin-bottom: 15px;
+  margin-top: -15px;
+  background: #ff3838;
+  color: white;
+  padding: 42px;
+}
+
+img {
+    display: block;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: -205px;
+    margin-right: 100px;
+    width: 10%;
+    height: 10%;
+}
+
+h1 {
+    text-align: center;
+    margin-right: 0%;
+    opacity: 100%;
+}
+
+h4{
+    text-align: center;
+    margin-left: 0%;
+ }
+
+ p {
+    margin-left: 0%;
+    margin-top: 5%;
+    font-size: 20px;
+    text-align: center;
+
+ }
+
+aside {
+    position: fixed;
+    flex: 1;
+    background-color: #9b9b9b;
+    padding: 80px;
+    font-size: 35px;
+    text-align: left;
+    float: left;
+    margin-top: 4.5%;
+    height: 90%;
+    width: 400px;
+    margin-left: -20px;
+    text-align: center;
+  }
+
+  .h2{
+    margin-left: 100px;
+    font-size: 10px;
+    text-align: center;
+  }
+
+   .input {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+  input[type=text] {
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+  }
+  
+  .downLBtn {
+    width: 10%;
+}
+  h3 {
+    margin-left: -50px;
+    font-size: 20px;
+    margin-bottom: 60px;
+    text-align: center;
+    background: #ff3838;
+    color: white;
+    padding: 26px;
+  }
+
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /*margin-top: 26.9%;*/
+  }
