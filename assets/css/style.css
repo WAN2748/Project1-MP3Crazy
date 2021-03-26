@@ -48,16 +48,15 @@ h4{
     margin-top: 5%;
     font-size: 20px;
     text-align: center;
-
  }
 
 aside {
     position: fixed;
     flex: 1;
-    background-color: #9b9b9b;
+    background-color: #c4c4c4;
     padding: 80px;
     font-size: 35px;
-    text-align: left;
+    text-align: center;
     float: left;
     margin-top: 4.5%;
     height: 90%;
@@ -93,6 +92,7 @@ aside {
   .downLBtn {
     width: 10%;
 }
+
   h3 {
     margin-left: -50px;
     font-size: 20px;

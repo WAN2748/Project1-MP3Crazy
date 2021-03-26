@@ -40,16 +40,18 @@ function getMp3Api(event) {
         "x-rapidapi-key": "07b716bb2emsh382bc8e82fbdaf7p127359jsnef1151c99ba8",
         "x-rapidapi-host": "genius.p.rapidapi.com"
       }
-    })
-    
-    // var image = $(`<img>=${jsonresponse.hits.0.header_image_url}`</img>)
-    
-    .then(response => {
-      console.log(response);
+    })  .then(response => {
+      return response.json();
+    }) .then (lyricresponse =>{
+     var lyricimg = lyricresponse.response.hits[0].result.header_image_url
+     var imgtag = $(`<img src="${lyricimg}">`)
+     $("#lyimg").append(imgtag)
     })
     .catch(err => {
       console.error(err);
     });
+    
+  
     }
   
   
