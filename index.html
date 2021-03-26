@@ -5,11 +5,8 @@
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script src="script.js">
 
-
-	</script>
-	<link rel="stylesheet" href="./assets/css/reset.css">
+<!-- <link rel="stylesheet" href="./assets/css/reset.css"> -->
   <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/lux/bootstrap.min.css" 
@@ -26,17 +23,18 @@
 <div class="col-xl-3">
      <!--Aside Bar Content-->
      <aside>
-        <h2 id="aside_text">Search For A YouTube Video To Download</p>
+        <u><h2 id="aside_text"></p></u>
         </aside>
       </div>
     </div>
 <!--Link Input Tab-->
 <main>
   <div class="header">
-    <p>"Just Paste A Link!"</p>
+    <p>Just Paste A Link!</p>
   </div>
 <header id="img">
   <img src="https://i.ibb.co/k9DFtxW/Since-2010-1-1.png" alt="site logo" border="0"></a>
+  
 <br>
 <br>
   <div id= h1>
@@ -55,12 +53,11 @@
         <div class="input-group-prepend">
           <span class="input-group-text" id="inputGroup-sizing-lg">Add Link Here</span>
         </div>
-        <input type="text" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
-        <button class="downLBtn"><i class="fas fa-file-download fa-4x"></i></button>
+        <input type="text" class="form-control" id="ytubelink" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+        <button class="downLBtn" id="downLBtn"><i class="fas fa-file-download fa-4x"></i></button> 
       </div>
-      <!-- <h3 class="row">ADD LINK HERE   
-        <textarea type="text" class="col-10 description" id=""></textarea>
-     -->
+   <div id="download"></div>
+   <div id="lyimg"></div>
      <br>
      <br>
         <p>* Convert youtube videos without any limit, our youtube to mp3 converter is free for everyone. Download MP3 file from your favorite video in few seconds!</p>
@@ -74,16 +71,32 @@
     </div>
   </div>
 </div>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<h1>Search For Album Cover!</h1>
+<br>
+<br>
+<div class="row justify-content-center">
+  <div class="col-xl-6">
+<div class="input-group input-group-lg">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="inputGroup-sizing-sm">Add Link Here</span>
+  </div>
+  <input type="text" class="form-control" id="lyricInput" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+  <button id="lyricBtn">Search for Lyrics </button> 
+</div>
+</div>
+</div>
 </main>
   <footer>
         <h3>
             Breakout Group 4 ✔ 
         </h3>
       </footer>
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js" 
-      integrity="sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+
-      gi5Yu8g=="
-      crossorigin="anonymous"></script> 
+      <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
       <script src="./assets/js/script.js"></script>
 </body>
 
