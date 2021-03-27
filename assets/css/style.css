@@ -60,7 +60,7 @@ aside {
     text-align: left;
     float: left;
     margin-top: 4.5%;
-    height: 90%;
+    height: 92%;
     width: 400px;
     margin-left: -20px;
     text-align: center;
@@ -96,7 +96,7 @@ aside {
   h3 {
     margin-left: -50px;
     font-size: 20px;
-    margin-bottom: 60px;
+    margin-bottom: -14px;
     text-align: center;
     background: #ff3838;
     color: white;
@@ -110,4 +110,3 @@ aside {
     width: 100%;
     /*margin-top: 26.9%;*/
   }
-  
