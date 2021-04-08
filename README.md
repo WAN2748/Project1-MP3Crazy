@@ -1,6 +1,6 @@
 # Overview 
 
-Link to deployed application: https://mattcross01.github.io/Project1-/
+Link to deployed application: https://mattcross01.github.io/Project1-MP3Crazy/
 
 * Site to convert youtube links to audio 
 * An API that looks for album art
