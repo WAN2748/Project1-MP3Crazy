@@ -14,10 +14,11 @@
 
 * Add mediaqurrys for responsiveness
 
-* Fix bugs from api 
+* Fix bugs from API
 
 * Add YouTube search 
 
 =========================================================
 
 #### Screenshot of live repo: 
+
