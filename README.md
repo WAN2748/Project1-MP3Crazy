@@ -26,4 +26,4 @@ Link to deployed application: https://mattcross01.github.io/Project1-/
 
 #### Screenshot of live repo: 
 
-![Screenshothttps://i.ibb.co/pPG26rd/mp3crazyss.png]
+![Screenshot](https://i.ibb.co/pPG26rd/mp3crazyss.png)
