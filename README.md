@@ -1,19 +1,23 @@
 # Over view 
-* site to convert youtube links to audio 
-* a api that looks for album art
-* bootstrap and jquery to stlye page
-## hurdles
-* api was difficult to have a responive one for converter
 
-* the back end needed help with t.a's to have functionaly
+* Site to convert youtube links to audio 
+* An API that looks for album art
+* Bootstrap and JQuery to style page
+## Hurdles
+* API was difficult to have a responive one for converter
 
-* bootstrap and css was not responive to screen size do to different size screens during devlopment
+* The back end needed help with TA's to have functionaly
 
-### to do:
+* Bootstrap and CSS was not responive to screen size do to different size screens during devlopment
 
-* add mediaqurrys for responsiveness
+### Fixes to be done:
 
-* fix bugs from api 
+* Add mediaqurrys for responsiveness
 
-* add youtube search 
+* Fix bugs from api 
 
+* Add YouTube search 
+
+=========================================================
+
+Screenshot of live repo: 
