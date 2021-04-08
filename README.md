@@ -1,9 +1,13 @@
 # Overview 
 
+Link to deployed application: https://mattcross01.github.io/Project1-/
+
 * Site to convert youtube links to audio 
 * An API that looks for album art
 * Bootstrap and JQuery to style page
+
 ## Hurdles
+
 * API was difficult to have a responive one for converter
 
 * The back end needed help with TA's to have functionaly
@@ -22,3 +26,4 @@
 
 #### Screenshot of live repo: 
 
+![Screenshot]https://i.ibb.co/pPG26rd/mp3crazyss.png
