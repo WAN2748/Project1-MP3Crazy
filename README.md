@@ -24,6 +24,14 @@ Link to deployed application: https://bit.ly/3mEvQEo
 
 * Add YouTube search 
 
+#### Contributors
+
+* Matt Cross (MattCross01)
+
+* Winston Nieradka (WAN2748)
+
+* Mina Baskharoun (Minabaskharoun)
+
 =========================================================
 
 #### Screenshot of live repo: 
