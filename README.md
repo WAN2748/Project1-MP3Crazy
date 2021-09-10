@@ -22,9 +22,13 @@ Link to deployed application: https://bit.ly/3mEvQEo
 
 * Fix bugs from API
 
-* Add YouTube search 
+* Add YouTube search
 
-#### Contributors
+#### How To Use
+
+* Copy and paste a youtube URL in search field and click the search button
+
+##### Contributors
 
 * Matt Cross (MattCross01)
 
