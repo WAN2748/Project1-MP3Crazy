@@ -6,13 +6,15 @@ Link to deployed application: https://bit.ly/3mEvQEo
 * An API that looks for album art
 * Bootstrap and JQuery to style page
 
-## Hurdles
+## Tools Used
 
-* API was difficult to have a responive one for converter
+* HTML
 
-* The back end needed help with TA's to have functionaly
+* JavaScript
 
-* Bootstrap and CSS was not responive to screen size do to different size screens during devlopment
+* Bootstrap and CSS
+
+* Third party API
 
 ### Fixes to be done:
 
